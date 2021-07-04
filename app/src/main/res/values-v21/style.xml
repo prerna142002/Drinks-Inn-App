@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextStyle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:layout_marginRight">8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+
+    </style>
+
+    <style name="item_menu_layout_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:padding">16dp</item>
+    </style>
+
+    <style name="item_layout_menu_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">horizontal</item>
+
+    </style>
+    <style name="item_quantity_menu_text_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:text">0</item>
+    </style>
+    <style name="item_name_menu_text_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name ="android:textAllCaps">true</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:background">#FF4081</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="button_increase_quantity_menu_style">
+        <item name="android:layout_width">48dp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:text">+</item>
+        <item name="android:backgroundTint">#ff8a80</item>
+    </style>
+    <style name="button_decrease_quantity_menu_style">
+        <item name="android:layout_width">48dp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:text">-</item>
+        <item name="android:backgroundTint">#ff8a80</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorAccent">#81C784</item>
+        <item name="colorPrimaryDark">#283593</item>
+        <item name="colorPrimary">#303F9F</item>
+        <item name="android:navigationBarColor">#303F9F</item>
+    </style>
+</resources>

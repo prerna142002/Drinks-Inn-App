@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" पेय  आदेश एप्लिकेशन"</string>
+    <string name="beverage" translatable="false">पेय मेनू</string>
+    <string name="price" translatable="false">मूल्य</string>
+    <string name="coffee" translatable="false">कॉफ़ी</string>
+    <string name="tea" translatable="false">" चाय"</string>
+    <string name="placeorder" translatable="false">तरतीब</string>
+    <string name="name" translatable="false">नाम</string>
+    <string name="jaljeera" translatable="false">"जलजीरा "</string>
+    <string name="coldcoffee" translatable="false">" ठंडी काफी"</string>
+    <string name="krushers" translatable="false">क्रशर</string>
+    <string name="lemonade" translatable="false">" नींबु पानी"</string>
+    <string name="hot" translatable="false">" गर्म पेय"</string>
+    <string name="Soup" translatable="false">" सूप"</string>
+    <string name="hotChocolate" translatable="false">" गर्म चॉकलेट"</string>
+    <string name="cold" translatable="false">" ठंडा पेय"</string>
+    <string name="ordersumm">तरतीब सारांश</string>
+    <string name="ty">" धन्यवाद!"</string>
+    <string name="email" translatable="false">ईमेल</string>
+    <string name="helpline" translatable="false">हेल्पलाइन</string>
+
+
+
+</resources>

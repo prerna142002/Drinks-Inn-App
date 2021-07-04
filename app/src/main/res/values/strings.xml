@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Drinks Inn</string>
+    <string name="beverage" translatable="false">beverages menu</string>
+    <string name="name" translatable="false">Name</string>
+    <string name="hot" translatable="false">hot</string>
+    <string name="coffee" translatable="false">coffee \n(\u20B9 20) </string>
+    <string name="tea" translatable="false">tea \n(\u20B9 20) </string>
+    <string name="Soup" translatable="false">Soup \n(\u20B9 100) </string>
+    <string name="price" translatable="false">Price</string>
+    <string name="hotChocolate" translatable="false">Hot Chocolate \n(\u20B9 70) </string>
+    <string name="cold" translatable="false">Cold Refreshments</string>
+    <string name="coldcoffee" translatable="false">Cold Coffee \n(\u20B9 60) </string>
+    <string name="jaljeera" translatable="false">Jaljeera \n(\u20B9 40) </string>
+    <string name="lemonade" translatable="false">Lemonade \n(\u20B9 30) </string>
+    <string name="krushers" translatable="false">Krushers \n(\u20B9 140) </string>
+    <string name="placeorder" translatable="false">PLACE ORDER</string>
+    <string name="ordersumm" translatable="false">ORDER SUMMARY</string>
+    <string name="total" translatable="false">TOTAL</string>
+    <string name="ty" translatable="false">THANK YOU!</string>
+    <string name="email" translatable="false">email</string>
+    <string name="helpline" translatable="false">HELPLINE</string>
+
+</resources>
